@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="Blog.aspx" />
     <Content Include="Contacto.aspx" />
+    <Content Include="Css.css" />
     <Content Include="Default.aspx" />
     <Content Include="Tutoriales.aspx" />
     <Content Include="Web.config" />
